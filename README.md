@@ -2,10 +2,10 @@
 ### I-94 Interstate Highway: Predicting Traffic
 
 **Disclaimer:**
-This project is a guided analysis from the platform [dataquest.io](http://dataquest.io). Most of the code, all of the markdown cells, and every analysis interpretation is my own work. The guided projects provide structure on what steps should be taken for successful project completion. For more information about what projects dataquest.io offers and how they are structured, visit their page using [this link](https://www.dataquest.io/data-science-projects/). 
+This project is a guided analysis from the platform [dataquest.io](http://dataquest.io). Most of the code, all of the markdown cells, and every analysis interpretation is my own work. The guided projects provide structure on what steps to take for successful project completion. For more information about what projects dataquest.io offers and how they are structured, visit their page using [this link](https://www.dataquest.io/data-science-projects/). 
 
 **Project Summary:**
-This project seeks to identify a few indicators of heavy traffic such as weather type and time of day. The goal of this project was to create “exploratory” graphs; graphs that deepen our understanding of the data. 
+This project seeks to identify a few indicators of heavy traffic such as weather type and time of day. The goal of this project was to create “exploratory” graphs: graphs that deepen our understanding of the data. 
 
 **Key Findings:**
 
