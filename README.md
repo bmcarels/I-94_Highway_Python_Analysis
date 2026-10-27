@@ -19,7 +19,7 @@ Three weather condition indicators of traffic volume:
 * Shower snow
 
 #### Datasource:
-The dataset we will be using for this project is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume) donated by John Hogue. The dataset was collected between Minneapolis and Saint Paul for westbound traffic on I-94. There are 48,204 rows and 9 columns in the dataset. For further exploration of the columns, please reference the project.
+The dataset we will be using for this project is from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume) donated by John Hogue. The dataset was collected between Minneapolis and Saint Paul for westbound traffic on I-94 from 2012-2018. There are 48,204 rows and 9 columns in the dataset. For further exploration of the columns, please reference the project.
 
 #### Tools Used:
 This project uses the coding language Python and the Python libraries, matplotlib and pandas. The Python library, seaborn, is imported but not used.  
